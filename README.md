@@ -1,4 +1,4 @@
 # Portfolio
 
-
-[신동걸 포트폴리오.pptx](https://github.com/user-attachments/files/24369206/default.pptx)
+[신동걸_포트폴리오.pptx](https://github.com/user-attachments/files/25730777/_.pptx)
+[신동걸_포트폴리오.pdf](https://github.com/user-attachments/files/25730786/_.pdf)
